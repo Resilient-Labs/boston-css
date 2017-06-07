@@ -1,4 +1,5 @@
 # Slides
+[link](https://dl.dropboxusercontent.com/u/4783806/CSS%20Modules%20-%20Boston%20CSS.pdf)
 
 # Demo Code
 [link](https://github.com/Resilient-Labs/css-modules-demo)
